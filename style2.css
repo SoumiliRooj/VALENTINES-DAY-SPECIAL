@@ -1,0 +1,17 @@
+body {
+    background-image: url("love.gif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+  }
+  
+  marquee{
+      position: center;
+      font-size: 10rem;
+      color: aquamarine;
+      z-index: 10000;
+  }
+  button{
+    background-color: beige;
+  }
